@@ -39,5 +39,4 @@ Contributions to the project are welcome! Please read `CONTRIBUTING.md` for deta
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
-- M5Stack Community
-- Contributors and supporters of the project
+- M5Stack Community https://github.com/m5stack
